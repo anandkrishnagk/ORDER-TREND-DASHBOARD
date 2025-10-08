@@ -27,16 +27,16 @@ It contains fields such as:
 - Quantity  
 
 
-## 🛠 Tools Used  
+## Tools Used  
 - **Looker Studio (Google Data Studio)** – Dashboard creation and data visualization  
 - **Microsoft Excel** – Data cleaning and preparation  
 
-## 🚀 How to View the Dashboard  
+## How to View the Dashboard  
 1. Open the Looker Studio dashboard link (add your public link here once shared).  
 2. Interact with filters for Region, Segment, Ship Mode, and Category.  
 3. Explore yearly and monthly order trends along with top customer insights.  
 
-## 💡 Key Insights  
+## Key Insights  
 - Clear decline in total orders from 2017 to 2014 with seasonal variations.  
 - The **Consumer Segment** and **Technology Category** have the highest share of orders.  
 - Western region and states like **California** and **New York** lead in order volumes.  
